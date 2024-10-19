@@ -1,0 +1,22 @@
+body {
+            background-color: #f8f9fa; /* Light background color */
+            color: #343a40; /* Dark text color */
+        }
+        .card {
+            margin: 100px auto; /* Center the card horizontally */
+            padding: 40px; /* Increase padding inside the card */
+            border-radius: 10px; /* Rounded corners */
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Stronger shadow */
+            max-width: 500px; /* Max width of the card */
+            background-color: #fff; /* White background for the card */
+        }
+        h1 {
+            margin-bottom: 30px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .btn-primary {
+            width: 100%; /* Full-width button */
+            padding: 10px; /* Add padding for better look */
+            font-size: 16px; /* Font size for button */
+        }
